@@ -1,7 +1,7 @@
 package com.belyakov.notesforepileptics.presentation.viewModel
 
 import com.belyakov.notesforepileptics.data.Medicine
-import com.belyakov.notesforepileptics.presentation.MedicineEvent
+import com.belyakov.notesforepileptics.presentation.view.MedicineEvent
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.StateFlow
 

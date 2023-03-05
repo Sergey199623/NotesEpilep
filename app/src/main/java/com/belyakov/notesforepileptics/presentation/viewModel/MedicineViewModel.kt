@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.belyakov.notesforepileptics.data.Medicine
 import com.belyakov.notesforepileptics.domain.MedicineRepository
-import com.belyakov.notesforepileptics.presentation.MedicineEvent
+import com.belyakov.notesforepileptics.presentation.view.MedicineEvent
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow

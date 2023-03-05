@@ -1,4 +1,4 @@
-package com.belyakov.notesforepileptics
+package com.belyakov.notesforepileptics.presentation.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

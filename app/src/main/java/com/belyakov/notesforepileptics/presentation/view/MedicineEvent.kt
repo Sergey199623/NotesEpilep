@@ -1,4 +1,4 @@
-package com.belyakov.notesforepileptics.presentation
+package com.belyakov.notesforepileptics.presentation.view
 
 sealed class MedicineEvent {
     object DeletedSuccessfully : MedicineEvent()
